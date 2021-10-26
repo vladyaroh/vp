@@ -1,0 +1,9 @@
+/* header */
+.header h1 {
+    text-align: center;
+}
+/* main */
+.normal_size {
+    height: 480px;
+    width: 270px;
+}
